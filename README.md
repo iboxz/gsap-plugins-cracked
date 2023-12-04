@@ -2,7 +2,8 @@
 # gsap-plugins-cracked
 
 ScrollSmoother, SplitText, ScrambleTextPlugin3 free access
-Official link to purchase this plugin [greensock.com](https://gsap.com/pricing/)
+
+### Official link to purchase this plugin [greensock.com](https://gsap.com/pricing/)
 
 ## Installation
 
