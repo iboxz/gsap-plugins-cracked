@@ -19,12 +19,12 @@ You need to import the [main version of gsap](https://gsap.com/docs/v3/Installat
 
 ScrollSmoother:
 
-`<script src="https://cdn.glitch.global/8352fc0e-bebe-4680-ae0b-269da8b54259/ScrollSmoother.min.js?v=1701659309446"></script>`
+`<script src="https://cdn.glitch.global/8352fc0e-bebe-4680-ae0b-269da8b54259/ScrollSmoother.min.js"></script>`
 
 ScrambleTextPlugin3:
 
-`<script src="https://cdn.glitch.global/8352fc0e-bebe-4680-ae0b-269da8b54259/ScrambleTextPlugin3.min.js?v=1701659314246"></script>`
+`<script src="https://cdn.glitch.global/8352fc0e-bebe-4680-ae0b-269da8b54259/ScrambleTextPlugin3.min.js"></script>`
 
 SplitText:
 
-`<script src="https://cdn.glitch.global/8352fc0e-bebe-4680-ae0b-269da8b54259/SplitText.min.js?v=1701659321697`
+`<script src="https://cdn.glitch.global/8352fc0e-bebe-4680-ae0b-269da8b54259/SplitText.min.js`
