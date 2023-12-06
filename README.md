@@ -1,5 +1,5 @@
 
-# gsap-plugins-cracked
+# GSAP Crack plugins
 
 ScrollSmoother, SplitText, ScrambleTextPlugin3 free access
 
