@@ -28,3 +28,5 @@ ScrambleTextPlugin3:
 SplitText:
 
 `<script src="https://cdn.glitch.global/8352fc0e-bebe-4680-ae0b-269da8b54259/SplitText.min.js`
+
+As of 2025-04-06, it still works, although the glitch.com CDN is not accessible in some countries. I recommend using the files directly instead.
