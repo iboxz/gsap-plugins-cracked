@@ -1,37 +1,36 @@
+# GSAP is Now 100% FREE! 
 
-# GSAP Crack plugins
+**Update: As of April 29, 2025**
 
-ScrollSmoother, SplitText, ScrambleTextPlugin3 free access
+Thanks to Webflow, **GSAP is now 100% FREE**, including ALL of the bonus plugins that were previously exclusive to Club GSAP members (such as **ScrollSmoother, SplitText, ScrambleTextPlugin, MorphSVG**, and more). The entire GSAP toolset is now free, even for commercial use!
 
-### Official link to purchase this plugin [greensock.com](https://gsap.com/pricing/)
+> **⚠️ Notice for Previous Users:** 
+> You no longer need cracked versions, bypass files, or unofficial CDNs. Please remove all old patched files or third-party scripts from your projects and switch to the official releases.
+
+> This repository was originally created to provide access to patched/cracked versions of GSAP premium plugins before they were officially free. 
 
 ## Installation
 
-- Add the files to your project directory.
-- You will no longer receive the Trial version error.
-- All logs related to the plugin being in Trial mode have been removed.
+You can now access the whole GSAP toolset, including all bonus plugins, directly from the public NPM repository, or the official website without any private access tokens or trial watermarks.
 
-## Requirements
+### NPM / Yarn
+```bash
+npm install gsap
 
-- You need to import the [main version of gsap](https://gsap.com/docs/v3/Installation). However, if the crack is disabled in future updates, use version 3.12.2/gsap.min.js.
+### CDN
+You can now use reliable, official CDNs (like cdnjs or jsDelivr) for all plugins.
 
+html
+<!-- Main GSAP -->
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.12/dist/gsap.min.js"></script>
 
-## CDN
+<!-- Bonus Plugins (Now Free!) -->
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.12/dist/ScrollSmoother.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.12/dist/SplitText.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.12/dist/ScrambleTextPlugin.min.js"></script>
+```
+## Official Links & Resources
 
-> The following scripts are self hosted and served from a single origin server. They are not delivered via a CDN and come with no guarantees of stability or permanence. Use only for testing or small projects; host them yourself or use a reliable CDN for production.
-
-- ScrollSmoother:
-  
-`<script src="https://v2ray-collector.gt.tc/assets/ScrollSmoother.min.js"></script>`
-
-- ScrambleTextPlugin3:
-
-`<script src="https://v2ray-collector.gt.tc/assets/ScrambleTextPlugin3.min.js"></script>`
-
-- SplitText:
-
-`<script src="http://v2ray-collector.gt.tc/assets/SplitText.min.js"></script>`
-
-
-### As of January 25, 2026, the files and links are still functional
-
+*   **Official Website & Docs:** [gsap.com](https://gsap.com/)
+*   **GitHub Repository:** [greensock/GSAP](https://github.com/greensock/GSAP)
+*   **Announcement Details:** Read more on the Webflow blog.
