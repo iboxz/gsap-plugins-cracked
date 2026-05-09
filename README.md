@@ -2,10 +2,7 @@
 
 **Update: As of April 29, 2025**
 
-Thanks to Webflow, **GSAP is now 100% FREE**, including ALL of the bonus plugins that were previously exclusive to Club GSAP members (such as **ScrollSmoother, SplitText, ScrambleTextPlugin, MorphSVG**, and more). The entire GSAP toolset is now free, even for commercial use!
-
-> **⚠️ Notice for Previous Users:** 
-> You no longer need cracked versions, bypass files, or unofficial CDNs. Please remove all old patched files or third-party scripts from your projects and switch to the official releases.
+Thanks to Webflow, **GSAP is now FREE**, including ALL of the bonus plugins that were previously exclusive to Club GSAP members (such as **ScrollSmoother, SplitText, ScrambleTextPlugin, MorphSVG**, and more). The entire GSAP toolset is now free, even for commercial use!
 
 > This repository was originally created to provide access to patched/cracked versions of GSAP premium plugins before they were officially free. 
 
